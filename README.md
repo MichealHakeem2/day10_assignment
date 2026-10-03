@@ -6,7 +6,7 @@ A clean, modern Flutter Contact application built as part of the EraaSoft Flutte
 
 | Home Screen | Edited Contact List | Add Contact | Edit Contact |
 |:---:|:---:|:---:|:---:|
-| ![Home Screen](assets/screenshots/Screenshot%202026-10-03%20073253.png) | ![Edited Contact](assets/screenshots/Screenshot%202026-10-03%20073336.png) | ![Add Contact](assets/screenshots/Screenshot%202026-10-03%20073346.png) | ![Edit Contact](assets/screenshots/Screenshot%202026-10-03%20073326.png) |
+| ![Home Screen](assets/screenshots/Screenshot%202026-10-03%20073253.png) | ![Add Contact](assets/screenshots/Screenshot%202026-10-03%20073346.png) | ![Edit Contact](assets/screenshots/Screenshot%202026-10-03%20073326.png) | ![Edited Contact](assets/screenshots/Screenshot%202026-10-03%20073336.png)
 
 ## ✨ Features
 
