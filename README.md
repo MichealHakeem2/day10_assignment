@@ -1,14 +1,16 @@
 # Contact App (Day 10)
 
-Hey! This is my Contact App project built with Flutter and Firebase Firestore. I made this as part of my Flutter learning course (Day 10 practice).
+This is my day 10 assignment for the EraaSoft Flutter course. It is a simple contact app built with Flutter and Firebase.
 
 ## Screenshots
 
-![Home Screen](assets/screenshots/home_screen.png)
-![Add Contact Screen](assets/screenshots/add_contact_screen.png)
+![Home Screen](assets/screenshots/Screenshot%202026-10-03%20073253.png)
+![Contact List](assets/screenshots/Screenshot%202026-10-03%20073326.png)
+![Add Contact](assets/screenshots/Screenshot%202026-10-03%20073336.png)
+![Edit Contact](assets/screenshots/Screenshot%202026-10-03%20073346.png)
 
-## Things to Know About This Project
+## Important Points
 
-- Connects to Firebase Cloud Firestore to save, edit, and delete contacts in real time
-- Has a separate screen for adding and editing contacts with automatic text field focus
-- Uses a custom dark space theme gradient layout with responsive search filtering
+- Uses Firebase Firestore to save and sync contacts live
+- Navigates to a new screen when adding or editing a contact
+- Auto focuses the text box so you can start typing right away
